@@ -1,13 +1,8 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master Degree, Applied Informatics
+  uni: Masaryk University
+  year: 1999 &mdash; 2005
+  summary: |
+    Master thesis "<a href="http://is.muni.cz/th/39419/fi_m/">Management system of the multimedia room</a>" (Czech text). Analysis of proprietary control system of multimedia room in the Laboratory of Advanced Network Technologies, capture and description of XML-based network communication protocol and simple control proxy server and web portal implementation. Technologies:&nbsp;Perl.<br /><br />
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+    Bachelor thesis "<a href="http://is.muni.cz/th/39419/fi_b/">Multiplexing the video streams</a>" (Czech text). Modification of tool for multimedia conferences to enable multiplexing of incoming video streams (merge multiple pictures into a single one). Technologies:&nbsp;Tcl/Tk, C.

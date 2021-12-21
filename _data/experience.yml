@@ -1,19 +1,60 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: OpenNebula Systems
+  position: Cloud Engineer, Lead Cloud Engineer
+  duration: Nov, 2016 &mdash; Oct, 2021
+  summary: |
+    Packaging, development (KVM, network, storage areas), and testing of OpenNebula cloud computing platform. Development and supervision of guest VM agents, preparation of OS images for OpenNebula Marketplace. A lead of several components (e.g., edge cloud deployment orchestration, automated upgrades, containerized deployment). Occasionally L3 support.<br /><br />
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+    Internal infrastructure maintenance and automation.<br /><br />
 
+    Platforms: CentOS/RHEL, Debian/Ubuntu, and others (Alpine, FreeBSD, Windows, ...)<br />
+    Languages: shell, Ruby<br />
+    Technologies: Ansible, OpenNebula (KVM), Jenkins, Packer
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Institute of Computer Science, Masaryk University
+  position: Systems Administrator
+  duration: Sep, 2011 &mdash; Apr, 2020
+  summary: |
+    Physical and virtual infrastructure install, setup, and management (HPC, priv. cloud), more than 240 physical hosts, and 220 managed homogenous virt. machines. Automation with Puppet from base OS to fully-fledged systems. HPC virt. clusters fine-tuning. Small OpenNebula contributions.<br /><br />
+
+    Technical support for KYPO national security project hosted on a private cloud. Application deployment automation for the H2020 West-Life project.<br /><br />
+
+    HW: x86-64 2-8&nbsp;sockets (IBM, HP, Dell, Supermicro), 48&nbsp;sockets (SGI&nbsp;UV)<br />
+    Platforms: CentOS/RHEL, Debian, SLES<br />
+    Languages: Python, Ruby<br />
+    Technologies: Puppet, Cloudify, OpenNebula (KVM), RHCS, Torque, Foreman, Zenoss, MooseFS
+
+- company: Packt Publishing
+  position: External Technical Reviewer
+  duration: 2014 &mdash; 2015
+  summary: |
+    Participated in review of the following books:
+
+    <ul class="resume-item-list">
+      <li><a href="https://www.packtpub.com/networking-and-servers/learning-puppet-security">Learning Puppet Security</a> by Jason Slagle, ISBN 9781784397753</li>
+      <li><a href="https://www.packtpub.com/networking-and-servers/learning-puppet-second-edition">Learning Puppet (2nd edition)</a> by Jussi Heinonen, ISBN 9781784399832</li>
+    </ul>
+
+- company: GoodData
+  position: Operations Engineer
+  duration: Jan, 2008 &mdash; Aug, 2011
+  summary: |
+    System administration of selected internal systems.<br /><br />
+
+    Initial deployment design, implementation, and automation of GoodData BI system on Amazon&nbsp;EC2. Further configuration changes on (pre)production platform and realization of new code deployments (2 weeks release cycle). Production platform monitoring and management. Communication with customers on daily basis (L3 support).<br /><br />
+
+    Internal tools development (web and CLI). Support for developers.<br /><br />
+
+    Platforms: CentOS<br />
+    Languages: Perl, Python (framework TurboGears, various ORMs)<br />
+    Technologies: AWS, Puppet, MySQL, HAProxy/Pound, RabbitMQ, OpenVPN, Kerberos, FreeRadius
+
+- company: Faculty of Informatics, Masaryk University
+  position: Systems Administrator
+  duration: Apr, 2002 &mdash; Dec, 2007
+  summary: |
+    System administration of students' UNIX/Linux workstations and servers. Small faculty information system for user accounts management programming.<br /><br />
+
+    Platforms: RHEL/Fedora, Gentoo, IRIX<br />
+    Languages: shell, Perl (mod_perl)<br />
+    Technologies: Apache, PostgreSQL
